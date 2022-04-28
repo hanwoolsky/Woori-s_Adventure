@@ -1,0 +1,18 @@
+newmtl PEEK
+Kd 0.6 0.509804 0.368627
+d 1
+newmtl Paint_-_Metallic_(Dark_Grey)
+Kd 0.34902 0.34902 0.34902
+d 1
+newmtl Paek_(Beige)
+Kd 0.898039 0.792157 0.619608
+d 1
+newmtl Steel_-_Satin
+Kd 0.627451 0.627451 0.627451
+d 1
+newmtl Gold_-_Polished
+Kd 0.956863 0.898039 0.654902
+d 1
+newmtl Paint_-_Metallic_(Black)
+Kd 0.0980392 0.0980392 0.0980392
+d 1

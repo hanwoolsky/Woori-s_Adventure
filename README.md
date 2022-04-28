@@ -2,10 +2,10 @@
 The goal of this team project is implementing a game that uses OpenGL for main graphics API.
 
 ## Title image
-<img width="1600" alt="Title image" src="./Woori's_Adventure/bin/images/CGTitle.png" />
+<img width="1600" alt="Title image" src="./README_FILES/CGTitle.png" />
 
 ## How to Play?
-<img width="1600" alt="Select image" src="./Woori's_Adventure/bin/images/character_select00.png" />
+<img width="1600" alt="Select image" src="./README_FILES/character_select00.png" />
     ◻ Choose your character and difficulty level
 
 ## 1. Basic Control
