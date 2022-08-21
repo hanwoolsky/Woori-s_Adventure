@@ -26,7 +26,7 @@ The goal of this team project is implementing a game that uses OpenGL for main g
 
 | Easy Mode | Hard Mode |
 | --------- | --------- |
-| <img width="50%" alt="Easy" src="./README_FILES/Easy.gif" /> | <img width="50%" alt="Hard" src="./README_FILES/Hard.gif" /> |
+| <img width="100%" alt="Easy" src="./README_FILES/Easy.gif" /> | <img width="100%" alt="Hard" src="./README_FILES/Hard.gif" /> |
 
     ◻ In easy mode, ducks move their own route regardless of character’s movement.
     ◻ In hard mode, ducks will chase the player.
